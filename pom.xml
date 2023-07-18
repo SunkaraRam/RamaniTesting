@@ -17,6 +17,11 @@
        <argLine>-Dfile.encoding=UTF-8 -Xdebug -Xnoagent</argLine>
    </properties>
   
+  
+  
+  
+  
+  
   <dependencies>
 	  <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 		<dependency>
