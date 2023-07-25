@@ -34,7 +34,7 @@ public class Gmail_Account {
 	
 	driver.findElement(By.xpath("//a[text()='Privacy']")).click();
 	driver.switchTo().window(parent);
-	
+	//Fixed xpath for the below elements
 	driver.findElement(By.xpath("//a[text()='Terms']")).click();
 	driver.switchTo().window(parent);
 	
